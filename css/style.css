@@ -1,0 +1,40 @@
+body {
+  background-color: #F7F6F6;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+  padding-top: 200px;
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 60px;
+  font-weight: bolder;
+  color: #31BA55;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+  color: #162244;
+  line-height: 1.2;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  color: #687089;
+  line-height: 1.2;
+}
+
+li {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  color: #687089;
+  line-height: 1.2;
+}
