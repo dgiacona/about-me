@@ -1,7 +1,8 @@
 body {
   background-color: #F7F6F6;
-  text-align: center;
-  padding-top: 150px;
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 30px;
 }
 
 h1 {
@@ -33,4 +34,12 @@ li {
   font-weight: normal;
   color: #687089;
   line-height: 1.2;
+}
+
+ul {
+  list-style: disc inside;
+}
+
+ol {
+  list-style: decimal inside;
 }
