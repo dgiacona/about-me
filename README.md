@@ -9,3 +9,7 @@ Dominic Giacona
 
 ## Reflection
 I found this lab to be very helpful in my understanding of prompts and getting more comfortable using JavaScript.
+
+### Pair Programming Exercise (12May22)
+Dom - Navigator
+John - Driver
