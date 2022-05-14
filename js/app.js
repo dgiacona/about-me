@@ -2,7 +2,7 @@
 let score = 0;
 let userName = prompt('What is your name?');
 alert('Welcome ' + userName + '!');
-// console.log(userName);
+
 
 function q1() {
   let answerOne = prompt('Do I know how to code?').toLowerCase();
@@ -17,7 +17,6 @@ function q1() {
 
 q1();
 
-// console.log(answerOne);
 
 function q2() {
   let answerTwo = prompt('Do I want to learn how to code?').toLowerCase();
@@ -31,8 +30,6 @@ function q2() {
 }
 
 q2();
-
-// console.log(answerTwo);
 
 
 function q3() {
@@ -49,8 +46,6 @@ function q3() {
 }
 
 q3();
-
-// console.log(answerThree);
 
 
 function q4() {
@@ -69,8 +64,6 @@ function q4() {
 q4();
 
 
-// console.log(answerFour);
-
 
 function q5() {
   let answerFive = prompt('Do I have a dog?').toLowerCase();
@@ -85,7 +78,6 @@ function q5() {
 
 q5();
 
-// console.log(answerFive);
 
 let attempts = 4;
 let userGuess = null;
